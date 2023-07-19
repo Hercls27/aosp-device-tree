@@ -1,0 +1,4 @@
+persist.sys.usb.config=none
+ro.vendor.build.display.id=NX709S_UNCommon_V6.04
+ro.vendor.build.internal.id=NX709S_Z69_UN_ZML0T_V604
+ro.vendor.dm_build.internal.id=NX709S_Z69_UN_ZML0T_V604
